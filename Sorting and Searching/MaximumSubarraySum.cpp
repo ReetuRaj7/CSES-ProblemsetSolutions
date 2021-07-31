@@ -21,6 +21,7 @@ int main() {
 		if (x > min)
 			min = x;
 	}
+	//Modified Kadane's Algorithm
 	lli max_so_far = a[0];
 	lli max_here = a[0];
 
