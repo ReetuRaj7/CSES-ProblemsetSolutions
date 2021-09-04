@@ -54,6 +54,7 @@ int main() {
 			cout << "IMPOSSIBLE" << endl;
 			return 0;
 		}
+	
 	for (auto i : ans)
 		cout << i << " ";
 	cout << endl;
